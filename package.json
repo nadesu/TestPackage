@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nadesu/TestPackage/issues"
   },
-  "homepage": "https://github.com/nadesu/TestPackage#readme"
+  "homepage": "https://github.com/nadesu/TestPackage#readme",
+  "publishConfig": {
+   "@nadesu:registry": "https://npm.pkg.github.com"
+ }
 }
