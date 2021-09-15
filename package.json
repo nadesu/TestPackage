@@ -1,0 +1,22 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "Sample package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadesu/TestPackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "nadesu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadesu/TestPackage/issues"
+  },
+  "homepage": "https://github.com/nadesu/TestPackage#readme"
+}
