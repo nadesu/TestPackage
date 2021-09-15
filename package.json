@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/nadesu/TestPackage#readme",
   "publishConfig": {
-     "nadesu:registry": "https://npm.pkg.github.com"
+     "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
   }
-
 }
